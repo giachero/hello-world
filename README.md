@@ -1,13 +1,11 @@
 # hello-world
 My first repository on GitHub
 
-* To clone the repository
+* To clone the remote repository
 
 ```
 $ git clone https://github.com/giachero/hello-world 
 ```
-
-
 
 * To compile the example
 
